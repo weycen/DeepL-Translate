@@ -1,5 +1,6 @@
 {
     "env": {
-      "DEEPL_API_KEY": "@deepl_api_key"
+      "DEEPL_API_KEY": "@deepl_api_key",
+      "PASSWORD": "@password"
     }
   }
